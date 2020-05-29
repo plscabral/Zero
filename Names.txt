@@ -1,7 +1,5 @@
 1 ,NAORECONHECIDO,www.google.com ,www.uol.com ,www.1.com ,www.2.com ,www.3.com 
 2 ,PRISCILA,www.olhardigital.com.br ,www.olhardigital.com.br ,www.olhardigital.com.br ,www.olhardigital.com.br ,www.olhardigital.com.br 
-3 ,THERCIO,www.r7.com ,www.infomoney.com.br ,www.investnews.com.br ,www.twitter.com ,http:\\unigranrio.blackboard.com 
-4 , Theercio2,www.facebook.com.br ,www.facebook.com.br ,www.facebook.com.br ,www.facebook.com.br ,www.facebook.com.br 
-5 , GEISIELLE,www.classapp.com.br ,www.institutosiloe.superlogica.net ,www.americanas.com.br ,www.instagram.com.br ,www.netflix.com.br 
-6 , PauliN,www.facebook.com ,www.facebook.com ,www.facebook.com ,www.facebook.com ,www.facebook.com 
-7 ,PauliN,www.facebook.com ,www.instagram.com ,www.twitter.com ,www.youtube.com ,www.gmail.com 
+3 , Theercio2,www.facebook.com.br ,www.facebook.com.br ,www.facebook.com.br ,www.facebook.com.br ,www.facebook.com.br 
+4 , GEISIELLE,www.classapp.com.br ,www.institutosiloe.superlogica.net ,www.americanas.com.br ,www.instagram.com.br ,www.netflix.com.br 
+5 , Paulo Luiz,www.facebook.com ,www.instagram.com ,www.twitter.com ,www.youtube.com ,www.gmail.com
